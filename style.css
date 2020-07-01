@@ -1,0 +1,38 @@
+body {
+	
+	background-color:white;
+	font-size:130%;
+}
+
+    h1
+	{
+     text-align: center;
+     color: maroon;
+     font-size: 40px;
+     width: 400px; 
+     text-align: center;  
+    }
+    h3
+	{
+     color: blue;
+     font-size: 20px;
+     width: 400px;   
+    }
+
+.style{
+	font-family:Arial,Helvetica,sanserif;
+	color:blue;
+	font-style:italic;
+	font-weight:bold;
+	font-size:24px;
+	text-transform:uppercase;
+	text-align:center;
+}
+
+#box{
+	background-color: blue;
+	border: 10px solid black;
+	padding:10px;
+	margin:20px;
+	width:700px;
+}

@@ -1,7 +1,9 @@
 body {
 	
-	background-color:white;
+	background: url("https://miro.medium.com/max/4320/1*ZHVsOy_YvUaWTgFDOtrusA.jpeg") no-repeat;
 	font-size:130%;
+	width: 500px
+	height:500px;
 }
 
     h1
@@ -36,3 +38,5 @@ body {
 	margin:20px;
 	width:700px;
 }
+
+	

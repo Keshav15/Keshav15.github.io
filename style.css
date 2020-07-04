@@ -11,7 +11,17 @@ body {
 #list{
 	font-weight: bold;
    }
-#main {
+#Main {
+	border:10px solid black;
+	border-radius:15px;
+	border-image-source: 
+	
+	
 
 	
+}
+.container{
+	
+	width: 990px;
+	margin: 0 auto;
 }

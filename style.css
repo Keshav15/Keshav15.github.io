@@ -1,42 +1,13 @@
 body {
 	
-	background: url("https://miro.medium.com/max/4320/1*ZHVsOy_YvUaWTgFDOtrusA.jpeg") no-repeat;
+	background: url("https://digitalsynopsis.com/wp-content/uploads/2017/07/beautiful-color-ui-gradients-backgrounds-decent.png");
+	background-color: black;
 	font-size:130%;
 	width: 500px
 	height:500px;
+
 }
 
-    h1
-	{
-     text-align: center;
-     color: maroon;
-     font-size: 40px;
-     width: 400px; 
-     text-align: center;  
-    }
-    h3
-	{
-     color: blue;
-     font-size: 20px;
-     width: 400px;   
-    }
-
-.style{
-	font-family:Arial,Helvetica,sanserif;
-	color:blue;
-	font-style:italic;
-	font-weight:bold;
-	font-size:24px;
-	text-transform:uppercase;
-	text-align:center;
-}
-
-#box{
-	background-color: blue;
-	border: 10px solid black;
-	padding:10px;
-	margin:20px;
-	width:700px;
-}
-
-	
+#list{
+	font-weight: bold;
+   }

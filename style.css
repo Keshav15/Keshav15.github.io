@@ -25,3 +25,26 @@ body {
 	width: 990px;
 	margin: 0 auto;
 }
+
+nav {
+	
+	list-style-type:none;
+	margin:10px;
+	padding:10px;
+
+}
+ li a {
+	
+	display: block;
+	background-color:lightgray;
+	 
+	float:left;
+}
+.con{
+	border:5px solid black;
+	padding: 20px;
+	margin: 50px;
+    border-radius:15px;
+    border-spacing: 15px;
+}
+

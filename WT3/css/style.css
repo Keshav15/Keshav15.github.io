@@ -1,0 +1,54 @@
+body {
+    margin-left: 75px;
+    margin-right: 75px;
+    background-image: linear-gradient(rgb(193, 242, 248), rgb(136, 248, 215));
+    font-family: sans-serif, Trebuchet MS, Arial, Helvetica;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 58px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(255, 125, 20);
+    font-size: 45px;
+}
+
+h3 {
+    color: rgb(89, 170, 24);
+    margin-left: 18px;
+    font-size: 35px;
+}
+
+#dropdown {
+    border: none;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 27px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+#dropdown:hover {
+    background-color: #ec87a6;
+    color: white;
+}
+
+#showdetails {
+    background-color: lightslategray;
+    width: 60%;
+    margin-top: 25px;
+    padding-left: 10px;
+}
+
+footer{
+	padding: 20px;
+	margin-top: 70px;
+	color: #ffffff;
+	background-color: #e8491d;
+	text-align: center;
+}
